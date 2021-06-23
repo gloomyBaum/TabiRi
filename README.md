@@ -1,3 +1,3 @@
-Das TabiRi-Projekt
-
-Die Dateien von Belang befinden sich in dem lib Ordner.
+BA-Thesis Project
+Skin Cancer Information
+Web-Version: https://gloomyho.github.io/
